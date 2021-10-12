@@ -1,2 +1,2 @@
 # Algorithm
-This repository contains the algorithms based on published literature for conducting various analysis related to geotechnical engineering.
+This repository contains the algorithms for conducting various analyses related to geotechnical engineering.
