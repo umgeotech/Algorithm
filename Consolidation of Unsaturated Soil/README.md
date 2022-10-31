@@ -6,3 +6,4 @@ References:
 
 - Zhou, W. H., Zhao, L. S., & Li, X. B. (2014). A simple analytical solution to one‐dimensional consolidation for unsaturated soils. International Journal for Numerical and Analytical Methods in Geomechanics, 38(8), 794-810.
 
+Please get in touch with us via umgeomech@gmail.com for any inquiries related to this algorithm. Thank you!
