@@ -6,4 +6,5 @@ This algorithm contains Python code samples for the paper “Geophysics-informed
 Please get in touch with us via umgeomech@gmail.com for any inquiries related to this algorithm. Thank you!
 
 ## Citation
-TBC
+
+[Click here for online version](https://www.sciencedirect.com/science/article/pii/S1674775524005985)
